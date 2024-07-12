@@ -47,4 +47,4 @@ Introduzir mais um enum, de Modes onde vamos usar ele para gerenciar com o que e
 - Criar no metodo render a troca de Mode e depois chamar o render no controller depois de trocar o modo do context
 - Add 2 metodos no view para poder recuperar as infos do form e criar ou TODO ou Reminder com essas infos
 - O controller deve utilizar dos metodos da View para conseguir pegar um Todo ou Reminder direto da view
-- Add o TODO ou Reminder a lista de Tasks e depois chamar o render novamente.
+- Add o TODO ou Reminder a lista de Tasks e depois chamar o render novamente
